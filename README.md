@@ -1,2 +1,2 @@
 # MergeTest
-Main readme file.
+Readme file for the main repo.
